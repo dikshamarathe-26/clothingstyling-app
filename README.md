@@ -1,2 +1,2 @@
 # clothingstyling-app
-this is Clothing styling project
+this is a Clothing styling project
